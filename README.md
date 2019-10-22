@@ -18,6 +18,7 @@ Created a bot that introduced themselves to a user and learned a bit about them.
 **Using a phone or other video device, record someone trying out your ChatBot. Upload that video to this repository and link to it here!**
 
 [User Test 1](https://photos.app.goo.gl/s6gU8ZnzLCaLv7Zf8)
+
 [User Test 2](https://photos.app.goo.gl/GfiaNcVoU8XWmikCA)
 
 ---
